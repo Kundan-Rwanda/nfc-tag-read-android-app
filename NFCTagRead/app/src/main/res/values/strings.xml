@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCTagRead</string>
+    <string name="explanation">Testing NFC</string>
+</resources>
